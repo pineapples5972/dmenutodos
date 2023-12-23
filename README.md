@@ -1,4 +1,4 @@
-# dmenutodos
+# DMENUTODOS
 Simple bash script which uses dmenu/rofi as minimal todo manager
 
 based on following philosophy:
